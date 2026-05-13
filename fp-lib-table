@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Amplifier footprints")(type "KiCad")(uri "${KIPRJMOD}/Amplifier footprints.pretty")(options "")(descr ""))
+)
