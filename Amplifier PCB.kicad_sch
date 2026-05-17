@@ -3861,6 +3861,24 @@
 				(hide yes)
 			)
 		)
+		(property "PARTNO" "0805LS-152XJRC"
+			(at 179.07 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "994-0805LS-152XJRC"
+			(at 179.07 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d5175647-eab4-4110-a9e2-77a02f5415e9")
 		)
@@ -4590,7 +4608,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" ""
+		(property "PARTNO" "0805LS-152XJRC"
 			(at 121.92 111.76 0)
 			(effects
 				(font
@@ -4599,7 +4617,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" ""
+		(property "Mouser" "994-0805LS-152XJRC"
 			(at 121.92 111.76 0)
 			(effects
 				(font
@@ -4684,7 +4702,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY" "3157-PMA3-43-1W+CT-ND"
+		(property "MINI-CIRCUITS" "PMA3-43-1W+"
 			(at 152.4 101.6 0)
 			(effects
 				(font
